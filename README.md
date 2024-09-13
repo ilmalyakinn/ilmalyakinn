@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Perkenalkan nama saya **Ilmal Yakin N**.<br>
+
+Saya seorang **Mahasiswa Sistem Informasi** di **STMIK Jabar**.<br>
+
+Saya memiliki ketertarikan dibidang  Artificial Intelligence (AI).<br>
+
+Saya juga memiliki beberapa projek website.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/ilmal-yakin-nurahman)ku ya.
 <!--
 **ilmalyakinn/ilmalyakinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
