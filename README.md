@@ -65,9 +65,17 @@ I’m a Computer Science student majoring in Information Systems.
 - Learn more about **Generative AI** to develop creative and impactful applications.
 
 ---
+# 🚀 My GitHub Stats and Top Languages
 
-# 🚀 **My GitHub Stats**
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ilmalyakinn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmalyakinn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
