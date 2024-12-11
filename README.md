@@ -32,21 +32,21 @@ I’m a Computer Science student majoring in Information Systems.
 # 🚀 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilmalyakinn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmalyakinn&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ilmalyakinn&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
 ## 🌟 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmalyakinn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <!--
