@@ -27,6 +27,27 @@ I’m a Computer Science student majoring in Information Systems.
 
 🌟 **Future Goals**  
 - Create AI-driven solutions to support sustainable agriculture in Indonesia.  
-- Learn more about **Generative AI** to develop creative and impactful applications. 
+- Learn more about **Generative AI** to develop creative and impactful applications.
+
+# 🚀 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🌟 Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
 <!--
 **ilmalyakinn/ilmalyakinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
